@@ -8,4 +8,5 @@ Repository Structure
 The repository is organized by day(hopefully), with each folder containing:
 
 AOC#.ipynb: My solution for the day's challenge ( ofcourse its the edited one )
+
 AOC#_Input.txt: The input file used for the day's challenge.
