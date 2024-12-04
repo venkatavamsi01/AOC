@@ -1,7 +1,9 @@
 Advent of Code 2024 🎄✨
+
 Welcome to my Advent of Code 2024 repository! Here, I will share my solutions and input files for each day's challenge as we journey through 25 days of festive coding fun.
 
 About Advent of Code
+
 Advent of Code is an annual programming challenge that runs every December( I just discovered this year ). Each day from December 1st to December 25th, a new puzzle is released at 6:00am(Sweden time). These puzzles are designed to test problem-solving skills and programming knowledge, making it a fun and challenging way to celebrate the holiday season (but im tryying to build a routine to code daily).
 
 Repository Structure
